@@ -1,2 +1,2 @@
 # Sockshop-Microservices-KB-Project
-Sockshop Microservices Kubernetes Project
+Sock Shop Microservices Project Using Kubernetes. Tech Stack=> Terraform, Git, Jenkins, Maven, Java, Tomcat AppServer, AWS, Ansible, Docker, K8S, Prometheus, Grafana
